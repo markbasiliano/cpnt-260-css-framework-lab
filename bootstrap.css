@@ -1,0 +1,9 @@
+.accordion-button {
+    background-color: aliceblue;
+    color: blue;
+    transition: background-color 0.3s;
+}
+
+.accordion-button:hover {
+    background-color: blueviolet;
+}
